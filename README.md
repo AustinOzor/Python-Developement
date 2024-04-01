@@ -1,5 +1,5 @@
 # Welcome to Python Web Development.
-
+#This is a project for git and github lesson for Vesko DevOps students.
 PreRequisites:
 - Docker
 
